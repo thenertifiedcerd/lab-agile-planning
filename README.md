@@ -1,2 +1,2 @@
 # lab-agile-planning
-Learning Agile development
+Learning Agile development using Github Actions
